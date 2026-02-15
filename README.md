@@ -7,21 +7,22 @@ A modern personal website that highlights featured projects, skills, and contact
 ## 🚀 Features
 - Responsive design
 - Clean UI layout
-- Projects section
-- Skills section
 - Bio section
+- Skills section
+- Media section
+- Projects section
+- Clients section
 - Contact links
+  
 
 ---
 
 ## 🛠️ Technologies Used
 - HTML5
-- CSS3
-- JavaScript
+- CSS
 - Sass
 
 ---
 
-## 📂 Folder Structure
 
 
