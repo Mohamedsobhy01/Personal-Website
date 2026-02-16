@@ -122,7 +122,10 @@
   }
 
   .projects__main {
-    column-gap: 3rem;
+    grid-template-columns: 1fr;
+    row-gap: 6rem;
+    justify-items: center;
   }
 }
+
 
