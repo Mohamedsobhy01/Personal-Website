@@ -4,6 +4,20 @@ A modern personal website that highlights featured projects, skills, and contact
 
 ---
 
+### 🌐 Live Demo
+
+👉 [View the Website](https://mohamedsobhy01.github.io/personal-website/)
+
+---
+
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS
+- Sass
+
+---
+
 ### 🚀 Features
 
 - Responsive design
@@ -11,14 +25,11 @@ A modern personal website that highlights featured projects, skills, and contact
 - Media section
 - Contact links
 
-  
+---  
 
----
+### 🎯 Project Goal
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS
-- Sass
+This project was built to practice advanced CSS, Sass architecture, and responsive layout techniques through a real portfolio-style website.
 
 ---
 
@@ -59,6 +70,21 @@ project-root
     ├── Mohamed Sobhy.png
     ├── project-1.png
     └── project-2.png
+```
+
+---
+
+### 📬 Contact
+
+- LinkedIn: www.linkedin.com/in/mohamed-sobhy-967ba0392
+  
+
+
+
+
+
+
+
 
 
 
