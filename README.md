@@ -12,9 +12,11 @@ A modern personal website that highlights featured projects, skills, and contact
 
 
 ## 🛠️ Technologies Used
-- HTML5
+- HTML
 - CSS
-- Sass
+- Flexbox
+- CSS Grid
+- SASS
 
 ---
 
