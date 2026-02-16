@@ -4,15 +4,13 @@ A modern personal website that highlights featured projects, skills, and contact
 
 ---
 
-## 🚀 Features
+### 🚀 Features
+
 - Responsive design
-- Clean UI layout
-- Bio section
-- Skills section
+- Projects & skills showcase
 - Media section
-- Projects section
-- Clients section
 - Contact links
+
   
 
 ---
@@ -23,6 +21,44 @@ A modern personal website that highlights featured projects, skills, and contact
 - Sass
 
 ---
+
+## 📁 Folder Structure
+
+```text
+project-root
+├── index.html
+├── results.html
+├── style.scss
+├── Video.mp4
+├── video-loop.mp4
+│
+├── components
+│   ├── _bio.scss
+│   ├── _clients.scss
+│   ├── _contact.scss
+│   ├── _footer.scss
+│   ├── _global.scss
+│   ├── _header.scss
+│   ├── _media.scss
+│   ├── _projects.scss
+│   ├── _reset.scss
+│   ├── _responsive.scss
+│   ├── _skills.scss
+│   ├── _theme.scss
+│   ├── _variables.scss
+│   └── mixins.scss
+│
+├── styles
+│   ├── style.css
+│   ├── style.css.map
+│   ├── mixins.css
+│   └── mixins.css.map
+│
+└── images
+    ├── Social Media Icons/
+    ├── Mohamed Sobhy.png
+    ├── project-1.png
+    └── project-2.png
 
 
 
