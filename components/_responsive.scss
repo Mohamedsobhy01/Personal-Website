@@ -121,11 +121,16 @@
     height: 100%;
   }
 
+  .section {
+    grid-template-columns: 1fr;
+  }
+
   .projects__main {
     grid-template-columns: 1fr;
     row-gap: 6rem;
     justify-items: center;
   }
 }
+
 
 
